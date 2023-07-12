@@ -1,0 +1,156 @@
+Regions,Ad Types,eCPM API
+string,string,string
+AR,Rewarded Video,2.94
+AR,Interstitial,1.89
+AU,Rewarded Video,11.25
+AU,Interstitial,12.9
+AU,Splash,5.67
+AT,Rewarded Video,10.55
+AT,Interstitial,7.82
+BE,Rewarded Video,6.44
+BE,Interstitial,3.5
+BE,Splash,3.02
+BR,Rewarded Video,6.3
+BR,Interstitial,6
+BR,Splash,1.33
+BG,Rewarded Video,7.13
+BG,Interstitial,4.32
+CA,Rewarded Video,12.5
+CA,Interstitial,13.4
+CA,Splash,7.11
+CL,Rewarded Video,7.28
+CL,Interstitial,3.49
+CN,Rewarded Video,3.22
+CN,Interstitial,2.5
+CO,Rewarded Video,1.8
+CR,Rewarded Video,3.59
+CS,Rewarded Video,5.51
+CS,Interstitial,2.54
+DK,Rewarded Video,9.34
+DK,Interstitial,6.88
+DK,Splash,6.66
+EG,Rewarded Video,2.14
+EG,Interstitial,1.64
+EG,Splash,0.5
+FI,Rewarded Video,7.52
+FI,Interstitial,4.54
+FR,Rewarded Video,6.85
+FR,Interstitial,9.9
+FR,Splash,3.37
+DE,Rewarded Video,9.19
+DE,Interstitial,10
+DE,Splash,5.1
+HK,Rewarded Video,15.3
+HK,Interstitial,17.7
+HK,Splash,4.51
+HU,Rewarded Video,3.86
+IS,Rewarded Video,6.42
+IN,Rewarded Video,2.4
+IN,Interstitial,1.38
+IN,Splash,0.37
+ID,Rewarded Video,2.75
+ID,Interstitial,2
+ID,Splash,0.58
+IR,Interstitial,1.3
+IQ,Rewarded Video,2.6
+IE,Rewarded Video,9.19
+IE,Interstitial,4.2
+IE,Splash,4.39
+IL,Rewarded Video,7.6
+IL,Interstitial,5.06
+IT,Rewarded Video,5.01
+IT,Interstitial,3.89
+IT,Splash,2.81
+JP,Rewarded Video,15.08
+JP,Interstitial,17.73
+JP,Splash,18.55
+KZ,Rewarded Video,2.79
+KZ,Interstitial,4.07
+KR,Rewarded Video,19.51
+KR,Interstitial,22.55
+KR,Splash,6.82
+KW,Rewarded Video,8.91
+MO,Rewarded Video,9.88
+MO,Interstitial,6.08
+MY,Rewarded Video,7.94
+MY,Interstitial,7.72
+MY,Splash,0.89
+MU,Rewarded Video,1.92
+MX,Rewarded Video,9.16
+MX,Interstitial,7.17
+MX,Splash,1.7
+NL,Rewarded Video,7.07
+NL,Interstitial,4.88
+NL,Splash,5.33
+NZ,Rewarded Video,7.79
+NZ,Interstitial,9.27
+NZ,Splash,5.46
+NO,Rewarded Video,8.09
+NO,Interstitial,5.71
+NO,Splash,6.02
+PK,Interstitial,0.82
+PK,Rewarded Video,0.75
+PE,Rewarded Video,2.79
+PE,Interstitial,1.63
+PH,Rewarded Video,3.09
+PH,Interstitial,3.07
+PH,Splash,1.05
+PL,Rewarded Video,5.91
+PL,Interstitial,3.31
+PL,Splash,1.24
+PT,Rewarded Video,6.93
+PR,Rewarded Video,11.54
+QA,Rewarded Video,9.17
+RO,Rewarded Video,5.92
+RO,Interstitial,2.48
+RU,Rewarded Video,2.76
+RU,Interstitial,2.78
+RU,Splash,0.99
+SA,Rewarded Video,6.3
+SA,Interstitial,3.98
+SA,Splash,3.55
+SG,Rewarded Video,8.18
+SG,Interstitial,7.09
+SG,Splash,3.1
+ZA,Rewarded Video,7.68
+ZA,Interstitial,5.46
+ZA,Splash,1.85
+ES,Rewarded Video,5.12
+ES,Interstitial,3.69
+ES,Splash,2.29
+SE,Rewarded Video,6.22
+SE,Interstitial,5.59
+SE,Splash,5.19
+CH,Rewarded Video,13.25
+CH,Interstitial,9.36
+CH,Splash,7.65
+TW,Rewarded Video,19.7
+TW,Interstitial,19.9
+TW,Splash,6.12
+TH,Rewarded Video,6
+TH,Interstitial,6.1
+TH,Splash,1.42
+TR,Rewarded Video,4.8
+TR,Interstitial,3.9
+TR,Splash,0.84
+UA,Rewarded Video,3.04
+UA,Interstitial,1.83
+AE,Rewarded Video,8.26
+AE,Interstitial,6.14
+AE,Splash,2.38
+UK,Rewarded Video,13.5
+UK,Interstitial,13.5
+UK,Splash,4.64
+US,Rewarded Video,16.56
+US,Interstitial,17.5
+US,Splash,8.06
+VN,Rewarded Video,3.53
+VN,Interstitial,3
+VN,Splash,0.83
+default,Rewarded Video,3.67
+default,Interstitial,2.75
+default,Splash,0.92
+419,Rewarded Video,4.58
+419,Interstitial,3.67
+419,Splash,1.38
+End,Splash,0
