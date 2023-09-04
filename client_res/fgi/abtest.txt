@@ -6,6 +6,9 @@
 		}, {
 			"abTestId": "64",
 			"abTestRatio": [0,1,0,0]
+		}, {
+			"abTestId": "68",
+			"abTestRatio": [1,0,0,0]
 		}
 	]
 }
