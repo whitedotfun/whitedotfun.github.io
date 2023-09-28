@@ -1655,3 +1655,5 @@ chocolateplatform.com, 14630, RESELLER, 49a66ce31a704197
 adview.com, 53849096, RESELLER, 1b2cc038a11ea319
 lijit.com, 224984, RESELLER, fafdf38b16bf6b2b #SOVRN
 bigo.sg, 1285, DIRECT
+pubmatic.com, 163868, RESELLER, 5d62403b186f2ace #OB
+pubmatic.com, 163877, RESELLER, 5d62403b186f2ace #HB #oRTB
