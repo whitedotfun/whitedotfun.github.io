@@ -17,7 +17,7 @@
 			"abTestRatio": [0,0,0,1]
 		}, {
 			"abTestId": "1020",
-			"abTestRatio": [1,1,1,0]
+			"abTestRatio": [1,0,1,0]
 		}
 	]
 }
