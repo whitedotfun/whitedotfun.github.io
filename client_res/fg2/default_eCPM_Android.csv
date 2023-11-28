@@ -3,9 +3,10 @@ string,string,string
 AD,Rewarded Video,5.94
 AD,Interstitial,1.332
 AD,Splash,0
-AE,Rewarded Video,6.516
-AE,Interstitial,4.392
+AE,Rewarded Video,6.716
+AE,Interstitial,6.392
 AE,Splash,1.548
+AE,Banner,2
 AF,Rewarded Video,1.272
 AF,Interstitial,0.732
 AF,Splash,1.116
@@ -17,24 +18,24 @@ AM,Splash,0.252
 AO,Rewarded Video,2.196
 AO,Interstitial,0.78
 AO,Splash,0.036
-AR,Rewarded Video,2.87
-AR,Interstitial,2.08
+AR,Rewarded Video,2.77
+AR,Interstitial,2
 AR,Splash,0.228
-AR,Banner,0.25
+AR,Banner,0.27
 AT,Rewarded Video,8.376
 AT,Interstitial,5.172
 AT,Splash,1.836
-AU,Rewarded Video,44
-AU,Interstitial,28
+AU,Rewarded Video,32
+AU,Interstitial,26
 AU,Splash,3.096
-AU,Banner,3.75
+AU,Banner,2.5
 AZ,Rewarded Video,1.9
 AZ,Splash,1.548
 AZ,Interstitial,1.8
 AZ,Banner,0.8
 BB,Rewarded Video,1.332
-BD,Rewarded Video,0.8
-BD,Interstitial,0.5
+BD,Rewarded Video,0.9
+BD,Interstitial,0.67
 BD,Splash,0.12
 BD,Banner,0.05
 BE,Rewarded Video,8.244
@@ -58,27 +59,27 @@ BO,Banner,0.144
 BR,Rewarded Video,7.3
 BR,Interstitial,5
 BR,Splash,1.26
-BR,Banner,0.77
+BR,Banner,0.97
 BS,Rewarded Video,2.184
 BS,Interstitial,0.84
-BY,Rewarded Video,2.84
-BY,Interstitial,1.716
+BY,Rewarded Video,2.284
+BY,Interstitial,1.6716
 BY,Splash,0.552
-BY,Banner,0.2552
+BY,Banner,0.3552
 BZ,Splash,0.096
 BZ,Rewarded Video,0.708
 BZ,Interstitial,0.396
-CA,Rewarded Video,34
-CA,Interstitial,33
+CA,Rewarded Video,28
+CA,Interstitial,24
 CA,Splash,3.984
-CA,Banner,3.4
+CA,Banner,2.4
 CH,Rewarded Video,10.248
 CH,Interstitial,7.596
 CH,Splash,3.936
-CL,Rewarded Video,7
+CL,Rewarded Video,6.8
 CL,Interstitial,4.7
 CL,Splash,1.08
-CL,Banner,0.5
+CL,Banner,0.6
 CM,Rewarded Video,1.956
 CM,Interstitial,0.816
 CM,Splash,0.276
@@ -86,9 +87,9 @@ CN,Rewarded Video,1.176
 CN,Interstitial,1.464
 CN,Splash,0.168
 CO,Rewarded Video,3.7
-CO,Interstitial,2.5
+CO,Interstitial,2.3
 CO,Splash,0.444
-CO,Banner,0.2
+CO,Banner,0.22
 CR,Rewarded Video,2.952
 CR,Interstitial,1.896
 CR,Splash,0.252
@@ -105,8 +106,8 @@ CZ,Rewarded Video,3.9
 CZ,Interstitial,3.1
 CZ,Splash,0.444
 CZ,Banner,0.25
-DE,Rewarded Video,5.96
-DE,Interstitial,4.844
+DE,Rewarded Video,7.46
+DE,Interstitial,5.744
 DE,Splash,0.248
 default,Rewarded Video,3.504
 default,Interstitial,2.004
@@ -136,7 +137,7 @@ EG,Banner,0.15
 ES,Rewarded Video,7.6
 ES,Interstitial,4.38
 ES,Splash,1.236
-ES,Banner,0.45
+ES,Banner,0.5
 ET,Interstitial,1.068
 ET,Rewarded Video,1.62
 FI,Rewarded Video,6.756
@@ -174,10 +175,10 @@ GU,Interstitial,9.852
 GY,Interstitial,0.744
 GY,Rewarded Video,1.536
 GY,Splash,0.096
-HK,Rewarded Video,20
-HK,Interstitial,20.264
+HK,Rewarded Video,18
+HK,Interstitial,15.264
 HK,Splash,1.824
-HK,Banner,1.5
+HK,Banner,2.3
 HN,Interstitial,1.116
 HN,Rewarded Video,1.668
 HR,Rewarded Video,2.688
@@ -188,20 +189,20 @@ HT,Interstitial,0.54
 HU,Rewarded Video,3.732
 HU,Interstitial,2.172
 HU,Splash,0.672
-ID,Rewarded Video,3.798
-ID,Interstitial,2.235
+ID,Rewarded Video,3.1798
+ID,Interstitial,2.1235
 ID,Splash,0.732
-ID,Banner,0.34
+ID,Banner,0.4
 IE,Rewarded Video,7.728
 IE,Interstitial,3.828
 IE,Splash,1.224
 IL,Rewarded Video,5.616
 IL,Interstitial,3.792
 IL,Splash,1.296
-IN,Rewarded Video,2.1
-IN,Interstitial,1.2
+IN,Rewarded Video,2
+IN,Interstitial,1
 IN,Splash,0.18
-IN,Banner,0.24
+IN,Banner,0.2
 IQ,Rewarded Video,2.4
 IQ,Interstitial,1.08
 IQ,Splash,0.216
@@ -217,8 +218,8 @@ JM,Interstitial,1.14
 JM,Rewarded Video,1.224
 JO,Interstitial,1.104
 JO,Rewarded Video,1.788
-JP,Rewarded Video,43
-JP,Interstitial,27
+JP,Rewarded Video,34
+JP,Interstitial,24
 JP,Splash,6.48
 JP,Banner,2.2
 KE,Rewarded Video,4.008
@@ -227,8 +228,8 @@ KE,Splash,0.576
 KG,Interstitial,1.416
 KG,Rewarded Video,1.272
 KG,Splash,0.648
-KR,Rewarded Video,43
-KR,Interstitial,25
+KR,Rewarded Video,35
+KR,Interstitial,24
 KR,Splash,6.612
 KR,Banner,1.8
 KW,Rewarded Video,4.588
@@ -286,21 +287,22 @@ MU,Splash,3.144
 MV,Interstitial,1.092
 MV,Rewarded Video,2.196
 MW,Rewarded Video,0.888
-MX,Rewarded Video,6.5
-MX,Interstitial,4
+MX,Rewarded Video,6.6
+MX,Interstitial,4.5
 MX,Splash,1.02
 MX,Banner,0.67
-MY,Rewarded Video,7.56
-MY,Interstitial,4.42
+MY,Rewarded Video,6.5
+MY,Interstitial,4
 MY,Splash,1.296
-MY,Banner,0.56
+MY,Banner,0.57
 MZ,Rewarded Video,3.084
 MZ,Interstitial,0.864
 NA,Interstitial,0.768
 NA,Splash,0.084
-NG,Rewarded Video,4.304
-NG,Interstitial,3.436
+NG,Rewarded Video,3.6304
+NG,Interstitial,2.6436
 NG,Splash,0.756
+NG,Banner,0.266
 NI,Rewarded Video,1.404
 NI,Interstitial,0.84
 NI,Splash,0.12
@@ -314,10 +316,10 @@ NO,Splash,0.996
 NP,Interstitial,0.6
 NP,Rewarded Video,1.176
 NP,Splash,0.156
-NZ,Rewarded Video,15.116
-NZ,Interstitial,11.448
+NZ,Rewarded Video,20.116
+NZ,Interstitial,19.448
 NZ,Splash,2.94
-NZ,Banner,0.84
+NZ,Banner,1.84
 OM,Rewarded Video,4.296
 OM,Interstitial,2.184
 OM,Splash,0.6
@@ -325,19 +327,19 @@ PA,Rewarded Video,2.688
 PA,Interstitial,1.656
 PA,Splash,0.456
 PE,Rewarded Video,3.8
-PE,Interstitial,2.17
+PE,Interstitial,2.4
 PE,Splash,0.624
-PE,Banner,0.24
+PE,Banner,0.29
 PF,Interstitial,2.448
 PF,Rewarded Video,2.544
-PH,Rewarded Video,6
-PH,Interstitial,3.8
+PH,Rewarded Video,5
+PH,Interstitial,3.3
 PH,Splash,1.068
 PH,Banner,0.46
-PK,Rewarded Video,0.76
-PK,Interstitial,0.6
+PK,Rewarded Video,0.95
+PK,Interstitial,0.77
 PK,Splash,0.228
-PK,Banner,0.08
+PK,Banner,0.15
 PL,Rewarded Video,3.6
 PL,Interstitial,3.2
 PL,Splash,0.828
@@ -345,13 +347,14 @@ PL,Banner,0.2
 PR,Rewarded Video,7.236
 PR,Interstitial,3.792
 PR,Splash,1.092
-PT,Rewarded Video,13.4
-PT,Interstitial,6.1
+PT,Rewarded Video,8.5
+PT,Interstitial,5.5
 PT,Splash,0.624
-PT,Banner,0.5
-PY,Rewarded Video,1.332
-PY,Interstitial,0.852
+PT,Banner,0.55
+PY,Rewarded Video,1.5
+PY,Interstitial,1.12
 PY,Splash,0.276
+PY,Banner,0.1276
 QA,Rewarded Video,7.416
 QA,Interstitial,2.952
 QA,Splash,1.62
@@ -362,14 +365,14 @@ RO,Banner,0.22
 RS,Rewarded Video,2.64
 RS,Interstitial,1.14
 RS,Splash,0.312
-RU,Rewarded Video,3.476
+RU,Rewarded Video,3.2476
 RU,Interstitial,3.34
 RU,Splash,0.972
 RU,Splash,0.21
-SA,Rewarded Video,7.592
-SA,Interstitial,5.88
+SA,Rewarded Video,8.292
+SA,Interstitial,6.088
 SA,Splash,1.704
-SA,Banner,1.18
+SA,Banner,1.23
 SC,Interstitial,0.972
 SC,Rewarded Video,1.248
 SC,Splash,0.108
@@ -379,10 +382,10 @@ SE,Rewarded Video,10.956
 SE,Interstitial,6.644
 SE,Splash,0.792
 SE,Banner,0.492
-SG,Rewarded Video,30.704
-SG,Interstitial,14.004
+SG,Rewarded Video,25
+SG,Interstitial,13
 SG,Splash,1.392
-SG,Banner,2.13
+SG,Banner,2.5
 SI,Splash,3.864
 SI,Rewarded Video,4.584
 SI,Interstitial,2.436
@@ -402,8 +405,8 @@ SY,Interstitial,0.42
 SZ,Interstitial,0.252
 TG,Rewarded Video,1.02
 TG,Splash,0.024
-TH,Rewarded Video,7.8
-TH,Interstitial,5.1
+TH,Rewarded Video,6.6
+TH,Interstitial,4.5
 TH,Splash,1.212
 TH,Banner,0.68
 TJ,Rewarded Video,1.188
@@ -414,35 +417,35 @@ TM,Interstitial,1.308
 TN,Interstitial,1.032
 TN,Rewarded Video,0.66
 TO,Splash,0
-TR,Rewarded Video,3.9
-TR,Interstitial,1.9
+TR,Rewarded Video,3.8
+TR,Interstitial,2.3
 TR,Splash,0.732
-TR,Banner,0.2
+TR,Banner,0.22
 TT,Interstitial,1.224
 TT,Rewarded Video,1.512
 TT,Splash,0.048
-TW,Rewarded Video,34
-TW,Interstitial,21
+TW,Rewarded Video,27
+TW,Interstitial,20
 TW,Splash,4.152
 TW,Banner,1.4
 TZ,Rewarded Video,2.208
 TZ,Splash,0.192
 TZ,Interstitial,1.452
-UA,Rewarded Video,1.7
-UA,Interstitial,1.4
+UA,Rewarded Video,1.9
+UA,Interstitial,1.65
 UA,Splash,0.336
-UA,Splash,0.46
+UA,Splash,0.3
 UG,Rewarded Video,5.352
 UG,Interstitial,1.512
 UG,Splash,1.44
-UK,Rewarded Video,24
-UK,Interstitial,16
+UK,Rewarded Video,23
+UK,Interstitial,18
 UK,Splash,2.604
 UK,Banner,1.2
-US,Rewarded Video,48.672
-US,Interstitial,33.3
+US,Rewarded Video,47.672
+US,Interstitial,32.3
 US,Splash,4.788
-US,Banner,3
+US,Banner,2.82
 UY,Interstitial,1.272
 UY,Rewarded Video,1.596
 UY,Splash,0.18
@@ -451,14 +454,14 @@ UZ,Interstitial,1.16
 UZ,Splash,0.576
 VE,Rewarded Video,1.152
 VE,Interstitial,0.72
-VN,Rewarded Video,4.236
-VN,Interstitial,2.532
+VN,Rewarded Video,3.72
+VN,Interstitial,2.35
 VN,Splash,0.648
-VN,Banner,0.28
+VN,Banner,0.25
 YE,Interstitial,0.456
 YE,Rewarded Video,1.212
-ZA,Rewarded Video,7.5
-ZA,Interstitial,4
+ZA,Rewarded Video,7
+ZA,Interstitial,4.6
 ZA,Splash,0.696
 ZA,Banner,0.7
 ZM,Rewarded Video,2.556
