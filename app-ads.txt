@@ -1481,3 +1481,4 @@ pubmatic.com, 164146, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163038, RESELLER, 5d62403b186f2ace
 themediagrid.com, 7MYRZ3, RESELLER, 35d5010d7789b49d
 criteo.com, B-072581, RESELLER, 9fac4a4a87c2a44f
+adsyield.com, 1233, RESELLER
