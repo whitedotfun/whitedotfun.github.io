@@ -515,7 +515,7 @@ opera.com, pub4261820774272, RESELLER,55a0c5fd61378de3
 tpmn.io, 415, RESELLER
 bigo.sg, 1285, DIRECT
 digitalturbine.com, 218000, DIRECT
-fyber.com,INSERT PUBLISHER ID,DIRECT
+fyber.com,218000,DIRECT
 acd.op.hicloud.com,PUB_HW_1003,RESELLER
 adcolony.com,3dcf9f51638afe2c,RESELLER,1ad675c9de6b5176
 adform.com,2967,RESELLER
