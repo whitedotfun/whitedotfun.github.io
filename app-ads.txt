@@ -1482,3 +1482,36 @@ pubmatic.com, 163038, RESELLER, 5d62403b186f2ace
 themediagrid.com, 7MYRZ3, RESELLER, 35d5010d7789b49d
 criteo.com, B-072581, RESELLER, 9fac4a4a87c2a44f
 adsyield.com, 1233, RESELLER
+freewheel.tv, 741650, RESELLER
+freewheel.tv, 1600180, RESELLER 
+freewheel.tv, 1600214, RESELLER 
+tpmn.io, 663, RESELLER 
+pubmatic.com, 163501, RESELLER, 5d62403b186f2ace 
+pubnative.net, 1003459, RESELLER, d641df8625486a7b 
+bidence.com, bb8088e44b63ec0ee086d3f1933d001e, RESELLER 
+mman.kr,32002,RESELLER 
+mman.kr,30915,RESELLER 
+inmobi.com,7847fe1f9ac54b4abe609cde4011243b,RESELLER,83e75a7ae333ca9d 
+improvedigital.com,2276,RESELLER 
+webeyemob.com, 70104, RESELLER 
+inmobi.com, 38e36193f3c944d0b6254c71e511041b, RESELLER, 83e75a7ae333ca9d 
+pubnative.net, 1007475, RESELLER, d641df8625486a7b 
+pubnative.net, 1007311, RESELLER, d641df8625486a7b 
+algorix.co, 60016, RESELLER, 5b394c12fea27a1d 
+adview.com, 33633363, RESELLER, 1b2cc038a11ea319 
+betweendigital.com, 44659, RESELLER 
+loopme.com, 11605, RESELLER, 6c8d5f95897a5a3b 
+zmaticoo.com, 115099, RESELLER  
+yeahmobi.com, 113522510629, RESELLER 
+admixer.net, 6c793933-0c69-47a2-91ad-0cede2f47029, RESELLER 
+algorix.co, 160034, RESELLER 
+vidoomy.com, 4930225, RESELLER 
+media.net,8cu1cp7pm,RESELLER 
+improvedigital.com, 2276, RESELLER 
+rixengine.com, 36127, RESELLER 
+rixengine.com,36073, RESELLER  
+rixengine.com,160026, RESELLER  
+dobyai.com,36127, RESELLER  
+dobyai.com,36073, RESELLER  
+dobyai.com,160026, RESELLER 
+vidoomy.com,4433873,RESELLER 
