@@ -1515,8 +1515,6 @@ dobyai.com,36127, RESELLER
 dobyai.com,36073, RESELLER  
 dobyai.com,160026, RESELLER 
 vidoomy.com,4433873,RESELLER 
-以下是最新的app-ads.txt，麻烦您更新一下： 
-#A4G#
 a4g.com, 14036, DIRECT
 google.com, pub-1232265399417302, RESELLER, f08c47fec0942fa0
 indexexchange.com, 195450, RESELLER, 50b1c356f2c5c8fc
