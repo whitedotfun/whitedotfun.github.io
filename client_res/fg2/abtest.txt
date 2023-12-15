@@ -18,6 +18,9 @@
 		}, {
 			"abTestId": "1020",
 			"abTestRatio": [0,1,0,0]
+		}, {
+			"abTestId": "1022",
+			"abTestRatio": [1,1,0,0]
 		}
 	]
 }
