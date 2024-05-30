@@ -2482,3 +2482,5 @@ video.unrulymedia.com, 436487936, RESELLER #Voise
 google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0 #Voise
 e-planning.net,b37ed21aa3e45e7e,DIRECT,c1ba615865ed87b2
 alpecs.com, 5621272678, RESELLER
+freewheel.tv, 741650, RESELLER
+inmobi.com, 30eb9116886a497db0c502e8cf0aa4d3, RESELLER, 83e75a7ae333ca9d
