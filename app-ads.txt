@@ -3154,3 +3154,5 @@ yahoo.com,57992,RESELLER,e1a5b5b6e3255540
 zeststack.com, 927, RESELLER
 zeststack.com, 1324, DIRECT
 pubmatic.com, 161995, RESELLER, 5d62403b186f2ace
+google.com, pub-2803917702499527, DIRECT, f08c47fec0942fa0
+pubmatic.com, 162674, DIRECT, 5d62403b186f2ace
