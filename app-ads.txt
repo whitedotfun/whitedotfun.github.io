@@ -3093,3 +3093,5 @@ onetag.com, 8d4bbebb8fa701e, RESELLER
 freewheel.tv, 1606620, RESELLER
 sabio.us, 100071, RESELLER, 96ed93aaa9795702
 magicmedia.ae, 6f828808, RESELLER
+caerulus.io, 3321-00048, DIRECT
+pubmatic.com, 163571, RESELLER
