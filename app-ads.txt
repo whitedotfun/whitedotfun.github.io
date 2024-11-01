@@ -3553,3 +3553,13 @@ bidmachine.io, 200, DIRECT
 betweendigital.com, 44727, RESELLER
 pubmatic.com,163420, RESELLER, 5d62403b186f2ace
 pubmatic.com,165340, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
+yabbi.me, 675d9254-4032-47ed-9074-b6ef4dbab522, DIRECT
+madex.world, 544b4c02-bccb-47eb-a8c2-0a6be081778b, DIRECT
+betweendigital.com, 43713, RESELLER
+screenil.com, 554156, DIRECT
+appnexus.com, 16220, RESELLER, f5ab79cb980f11d1
+sharethrough.com, KqNHFkhm, RESELLER, d53b998a7bd4ecd2
+onetag.com, 8df8f252fa801e4, RESELLER
+triplelift.com, 13792, RESELLER, 6c33edb13117fd86
+triplelift.com, 13465, RESELLER, 6c33edb13117fd86
