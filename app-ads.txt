@@ -3563,3 +3563,5 @@ sharethrough.com, KqNHFkhm, RESELLER, d53b998a7bd4ecd2
 onetag.com, 8df8f252fa801e4, RESELLER
 triplelift.com, 13792, RESELLER, 6c33edb13117fd86
 triplelift.com, 13465, RESELLER, 6c33edb13117fd86
+showheroes.com, 6031, RESELLER
+lijit.com, 530498, RESELLER
