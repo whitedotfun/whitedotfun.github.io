@@ -3361,3 +3361,92 @@ lijit.com, 417620, RESELLER, fafdf38b16bf6b2b
 bid-matrix.com, f2c71a45ea149366, RESELLER
 video.unrulymedia.com, 2743945877, RESELLER
 admanmedia.com, 2242, RESELLER
+admatic.com.tr, adm-pub-3698631073, RESELLER, uufps1dh5stc6euk
+openx.com, 541017750, RESELLER, 6a698e2ec38604c6
+indexexchange.com, 194974, RESELLER, 50b1c356f2c5c8fc
+appnexus.com, 12941, RESELLER, f5ab79cb980f11d1
+appnexus.com, 12752, RESELLER, f5ab79cb980f11d1
+appnexus.com, 12969, RESELLER, f5ab79cb980f11d1
+appnexus.com, 13293, RESELLER, f5ab79cb980f11d1
+freewheel.tv, 741650, RESELLER
+inmobi.com, 30eb9116886a497db0c502e8cf0aa4d3, RESELLER, 83e75a7ae333ca9d
+toponad.com, 1661f80179644e, DIRECT, 1d49fe424a1a456d
+pubmatic.com, 159382, RESELLER
+rubiconproject.com, 24960, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25496, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24914, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24908, RESELLER, 0bfd66d529a55807
+smaato.com, 1100051000, RESELLER, 07bcf65f187117b4
+sharethrough.com, 26VgE1nN, RESELLER, d53b998a7bd4ecd2
+lijit.com, 443291, RESELLER, fafdf38b16bf6b2b
+stroeer.com, 25290, RESELLER
+zetaglobal.net, 525, RESELLER
+goldbach-germany.de, BalloonLabs, RESELLER
+e-planning.net, 1bf7b5d803f178c4, RESELLER, c1ba615865ed87b2
+rubiconproject.com, 26958, RESELLER, 0bfd66d529a55807
+onetag.com, 8df76ed1d09d55e, RESELLER
+consumable.com, 2001585, RESELLER, aefcd3d2f45b5070
+adswizz.com, 561, RESELLER
+zetaglobal.net, 815, RESELLER
+sabio.us, 100092, reseller, 96ed93aaa9795702
+freewheel.tv, 1606620, reseller
+freewheel.tv, 1606633, reseller
+onetag.com, 82e44d118b79600, DIRECT
+themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d
+admatic.com.tr, adm-pub-3033566192, DIRECT, uufps1dh5stc6euk
+Contextweb.com, 562911, RESELLER, 89ff185a4c4e857c
+yeahmobi.com, 104752, RESELLER
+admixer.net, f6790c61-b9ce-49b0-b809-059710d60dfd, DIRECT
+richaudience.com, 9komJKwMhZ, RESELLER
+opera.com, pub11079554715136, DIRECT, 55a0c5fd61378de3
+lijit.com, 530498, RESELLER, fafdf38b16bf6b2b
+smartclip.net, 27985, RESELLER
+lijit.com, 380632, RESELLER, fafdf38b16bf6b2b
+krushmedia.com, AJxF6R192a9M6CaTvK, DIRECT
+conversantmedia.com, 100863, RESELLER, 03113cd04947736d
+appaspire.com, 97515, RESELLER
+rubiconproject.com, 26694, RESELLER, 0bfd66d529a55807
+pubmatic.com, 165702, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165701, RESELLER, 5d62403b186f2ace
+inmobi.com, 6cb2de20b77b4011911f2df29e4674a0, RESELLER, 83e75a7ae333ca9d
+Contextweb.com, 563462, RESELLER, 89ff185a4c4e857c
+atasdigital.com, 506154, RESELLER
+uis.mobfox.com, 2206, RESELLER, 5529a3d1f59865be
+singularads.com, 445896, RESELLER
+lijit.com, 528054, RESELLER, fafdf38b16bf6b2b
+smaato.com, 1100056344, RESELLER, 07bcf65f187117b4
+smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
+contextweb.com, 563601, RESELLER, 89ff185a4c4e857c
+pubnative.net, 1009988, RESELLER, d641df8625486a7b
+pubmatic.com, 161368, RESELLER, 5d62403b186f2ace
+mlion.io, 115104695, RESELLER
+video.unrulymedia.com, 505354689, RESELLER
+conversantmedia.com, 100791, RESELLER, 03113cd04947736d
+themediagrid.com, NG9STC, DIRECT, 35d5010d7789b49d
+improvedigital.com, 2505, RESELLER
+sovrn.com, 500520, RESELLER, fafdf38b16bf6b2b
+zetaglobal.com, 815, RESELLER
+ssp.zetaglobal.net, 815, RESELLER
+appnexus.com, 16903, RESELLER, f5ab79cb980f11d1
+ucfunnel.com, par-E2B3A33EAA4286BEF7ADD9AA28A922D2, RESELLER
+aralego.com, par-E2B3A33EAA4286BEF7ADD9AA28A922D2, RESELLER
+adiiix.com, db716a4c, RESELLER
+rubiconproject.com, 25482, RESELLER, 0bfd66d529a55807
+krushmedia.com, AJxF6R192a9M6CaTvK, RESELLER
+mgid.com, 885240, RESELLER, d4c29acad76ce94f
+rubiconproject.com, 26552, RESELLER
+admixer.co.kr, 1289, RESELLER
+appnexus.comappnexus.com, 6849, RESELLER
+zmaticoo.com, 114490, DIRECT
+contextweb.com, 563521, RESELLER, 89ff185a4c4e857c
+rubiconproject.com, 15044, RESELLER, 0bfd66d529a55807
+admanmedia.com, 2248, RESELLER
+improvedigital.com, 2508, RESELLER
+improvedigital.com, 2509, RESELLER
+pubnative.net, 1010067, RESELLER, d641df8625486a7b
+pubnative.net, 1010068, RESELLER, d641df8625486a7b
+pubnative.net, 1010069, RESELLER, d641df8625486a7b
+pubnative.net, 1010070, RESELLER, d641df8625486a7b
+pubnative.net, 1010071, RESELLER, d641df8625486a7b
+pubnative.net, 1010072, RESELLER, d641df8625486a7b
+pubnative.net, 1010073, RESELLER, d641df8625486a7b
