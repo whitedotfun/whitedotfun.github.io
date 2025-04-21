@@ -4,7 +4,7 @@
 			// 递增的活动id，仅会检查超过已经进行过的id的活动
 			"id": 0,
 			// 活动类型，目前有bottle（漂流瓶）和watermelon（打西瓜）
-			"event_type": "bottle",
+			"eventType": "bottle",
 			// 活动开始日期
 			"openBeginTime": "2025-4-1",
 			// 活动结束日期

@@ -2,19 +2,19 @@
 	"data": [
 		{
 			"id": 0,
-			"event_type": "bottle",
+			"eventType": "bottle",
 			"openBeginTime": "2025-04-16",
 			"openEndTime": "2025-05-01",
 			"durationDays": 3,
 		}, {
 			"id": 1,
-			"event_type": "bottle",
+			"eventType": "bottle",
 			"openBeginTime": "2025-05-01",
 			"openEndTime": "2025-05-16",
 			"durationDays": 3,
 		}, {
 			"id": 2,
-			"event_type": "watermelon",
+			"eventType": "watermelon",
 			"openBeginTime": "2025-05-16",
 			"openEndTime": "2025-05-31",
 			"durationDays": 3,
