@@ -10,7 +10,7 @@
 			// 活动结束日期
 			"openEndTime": "2025-5-1",
 			// 活动开始后持续天数
-			"durationDays": 3,
+			"durationDays": 3
 		}
 	]
 }
