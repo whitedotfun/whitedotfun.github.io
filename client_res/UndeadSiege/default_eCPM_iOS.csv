@@ -1,0 +1,385 @@
+Regions,Ad Types,eCPM API
+string,string,string
+419,Banner,0.1167
+419,Interstitial,4.2691
+419,Rewarded Video,6.0631
+AD,Banner,0.0609
+AD,Interstitial,1.45
+AD,Rewarded Video,5.4903
+AE,Banner,2
+AE,Interstitial,6.392
+AE,Rewarded Video,6.716
+AF,Banner,0.0229
+AF,Interstitial,0.5612
+AF,Rewarded Video,1.0313
+AL,Interstitial,0.732
+AL,Rewarded Video,0.96
+AM,Interstitial,1.044
+AM,Rewarded Video,1.08
+AO,Interstitial,0.78
+AO,Rewarded Video,2.196
+AR,Banner,0.2315
+AR,Interstitial,1.75
+AR,Rewarded Video,2.67
+AT,Interstitial,16.16
+AT,Rewarded Video,19.23
+AU,Banner,0.4268
+AU,Interstitial,24.94
+AU,Rewarded Video,43.62
+AZ,Banner,0.0535
+AZ,Interstitial,3.56
+AZ,Rewarded Video,5.5
+BB,Rewarded Video,1.332
+BD,Banner,0.0241
+BD,Interstitial,0.5958
+BD,Rewarded Video,0.8322
+BE,Banner,0.0526
+BE,Interstitial,10.09
+BE,Rewarded Video,18.58
+BG,Banner,0.2055
+BG,Interstitial,4.31
+BG,Rewarded Video,6.89
+BH,Banner,0.0954
+BH,Interstitial,6.3802
+BH,Rewarded Video,9.0037
+BJ,Rewarded Video,1.896
+BL,Interstitial,0.636
+BL,Rewarded Video,1.032
+BN,Interstitial,0.924
+BN,Rewarded Video,7.56
+BO,Banner,0.144
+BO,Interstitial,1.0828
+BO,Rewarded Video,1.776
+BR,Banner,0.1213
+BR,Interstitial,3.74
+BR,Rewarded Video,6.05
+BS,Interstitial,0.84
+BS,Rewarded Video,2.184
+BY,Banner,0.3552
+BY,Interstitial,2.28
+BY,Rewarded Video,3.32
+BZ,Interstitial,0.396
+BZ,Rewarded Video,0.708
+CA,Banner,0.4537
+CA,Interstitial,16.01
+CA,Rewarded Video,28.56
+CH,Interstitial,23.46
+CH,Rewarded Video,21.17
+CL,Banner,0.0771
+CL,Interstitial,2.9
+CL,Rewarded Video,6.27
+CM,Interstitial,0.816
+CM,Rewarded Video,1.956
+CN,Interstitial,1.464
+CN,Rewarded Video,1.176
+CO,Banner,0.0432
+CO,Interstitial,1.43
+CO,Rewarded Video,2.82
+CR,Banner,0.112
+CR,Interstitial,2.95
+CR,Rewarded Video,5.28
+CS,Interstitial,2.16
+CS,Rewarded Video,3.372
+CU,Interstitial,0.996
+CU,Rewarded Video,1.32
+CY,Interstitial,1.644
+CY,Rewarded Video,4.092
+CZ,Banner,0.25
+CZ,Interstitial,7.05
+CZ,Rewarded Video,11.72
+DE,Banner,0.1692
+DE,Interstitial,14.02
+DE,Rewarded Video,24.53
+default,Banner,0.25
+default,Interstitial,2.004
+default,Rewarded Video,3.504
+default,Splash,0.58
+DJ,Interstitial,0.492
+DJ,Rewarded Video,1.116
+DK,Banner,0.1436
+DK,Interstitial,10.34
+DK,Rewarded Video,15.32
+DO,Banner,0.372
+DO,Interstitial,1.572
+DO,Rewarded Video,2.44
+DZ,Interstitial,0.636
+DZ,Rewarded Video,0.96
+EC,Banner,0.24
+EC,Interstitial,1.724
+EC,Rewarded Video,3.836
+EE,Interstitial,3.24
+EE,Rewarded Video,3.636
+EG,Banner,0.0376
+EG,Interstitial,1.2
+EG,Rewarded Video,1.9
+ES,Banner,0.1093
+ES,Interstitial,4.84
+ES,Rewarded Video,8.73
+ET,Interstitial,1.068
+ET,Rewarded Video,1.62
+FI,Interstitial,4.08
+FI,Rewarded Video,11.32
+FJ,Interstitial,0.888
+FJ,Rewarded Video,1.056
+FR,Banner,0.1484
+FR,Interstitial,10.8
+FR,Rewarded Video,19.96
+GA,Interstitial,0.444
+GA,Rewarded Video,0.756
+GD,Interstitial,0.516
+GD,Rewarded Video,1.848
+GE,Interstitial,0.936
+GE,Rewarded Video,1.26
+GF,Interstitial,1.872
+GF,Rewarded Video,2.844
+GH,Interstitial,0.864
+GH,Rewarded Video,3.192
+GI,Interstitial,1.548
+GI,Rewarded Video,1.896
+GM,Interstitial,0.36
+GM,Rewarded Video,8.796
+GR,Banner,0.1008
+GR,Interstitial,4.21
+GR,Rewarded Video,8.22
+GT,Interstitial,1.092
+GT,Rewarded Video,1.548
+GU,Interstitial,9.852
+GU,Rewarded Video,6.996
+GY,Interstitial,0.744
+GY,Rewarded Video,1.536
+HK,Banner,0.3099
+HK,Interstitial,10.9
+HK,Rewarded Video,23.42
+HN,Banner,0.0838
+HN,Interstitial,4.2758
+HN,Rewarded Video,5.2741
+HR,Interstitial,4.88
+HR,Rewarded Video,11.8
+HT,Interstitial,0.54
+HT,Rewarded Video,1.056
+HU,Interstitial,4.81
+HU,Rewarded Video,8.64
+ID,Banner,0.0513
+ID,Interstitial,2.55
+ID,Rewarded Video,4.37
+IE,Interstitial,3.828
+IE,Rewarded Video,7.728
+IL,Interstitial,10.95
+IL,Rewarded Video,14.59
+IN,Banner,0.0377
+IN,Interstitial,1.17
+IN,Rewarded Video,2.98
+IQ,Banner,0.0258
+IQ,Interstitial,1.02
+IQ,Rewarded Video,2.29
+IR,Rewarded Video,0.192
+IS,Banner,0.1243
+IS,Interstitial,6.22
+IS,Rewarded Video,11.2
+IT,Banner,0.0912
+IT,Interstitial,5.0356
+IT,Rewarded Video,7.2496
+JM,Banner,0.0382
+JM,Interstitial,2.0041
+JM,Rewarded Video,3.1556
+JO,Banner,0.0265
+JO,Interstitial,1.7002
+JO,Rewarded Video,2.5907
+JP,Banner,0.2757
+JP,Interstitial,14.15
+JP,Rewarded Video,23.36
+KE,Interstitial,2.88
+KE,Rewarded Video,4.008
+KG,Interstitial,1.416
+KG,Rewarded Video,1.272
+KR,Banner,0.3902
+KR,Interstitial,26.91
+KR,Rewarded Video,42.2
+KW,Banner,0.1752
+KW,Interstitial,11.19
+KW,Rewarded Video,23.37
+KZ,Banner,0.1087
+KZ,Interstitial,2.42
+KZ,Rewarded Video,4.54
+LA,Interstitial,0.54
+LA,Rewarded Video,0.912
+LB,Interstitial,0.756
+LB,Rewarded Video,0.972
+LK,Interstitial,0.744
+LK,Rewarded Video,1.116
+LT,Banner,0.29
+LT,Interstitial,12.04
+LT,Rewarded Video,16.39
+LU,Interstitial,2.556
+LU,Rewarded Video,6.768
+LV,Interstitial,4.97
+LV,Rewarded Video,6.27
+LY,Interstitial,0.816
+LY,Rewarded Video,1.176
+MA,Interstitial,1.236
+MA,Rewarded Video,1.464
+MD,Interstitial,1.26
+MD,Rewarded Video,1.824
+MG,Interstitial,0.588
+MG,Rewarded Video,1.584
+MK,Interstitial,0.432
+MK,Rewarded Video,0.6
+ML,Interstitial,0.636
+ML,Rewarded Video,1.716
+MM,Interstitial,1.488
+MM,Rewarded Video,1.716
+MN,Banner,0.0433
+MN,Interstitial,1.9067
+MN,Rewarded Video,2.9426
+MO,Banner,0.0266
+MO,Interstitial,1.3665
+MO,Rewarded Video,2.0482
+MT,Interstitial,2.808
+MT,Rewarded Video,5.016
+MU,Interstitial,0.78
+MU,Rewarded Video,1.428
+MV,Interstitial,1.092
+MV,Rewarded Video,2.196
+MW,Rewarded Video,0.888
+MX,Banner,0.1167
+MX,Interstitial,2.8
+MX,Rewarded Video,5.37
+MY,Banner,0.0929
+MY,Interstitial,5.46
+MY,Rewarded Video,9.81
+MZ,Interstitial,0.864
+MZ,Rewarded Video,3.084
+NA,Interstitial,0.768
+NG,Banner,0.0406
+NG,Interstitial,2.5404
+NG,Rewarded Video,3.2111
+NI,Interstitial,0.84
+NI,Rewarded Video,1.404
+NL,Banner,0.1567
+NL,Interstitial,15.76
+NL,Rewarded Video,20.48
+NO,Interstitial,16.66
+NO,Rewarded Video,18.89
+NP,Interstitial,0.6
+NP,Rewarded Video,1.176
+NZ,Banner,2.84
+NZ,Interstitial,10.79
+NZ,Rewarded Video,24.2
+OM,Interstitial,2.184
+OM,Rewarded Video,4.296
+PA,Banner,0.0767
+PA,Interstitial,4.3663
+PA,Rewarded Video,3.6342
+PE,Banner,0.0436
+PE,Interstitial,1.74
+PE,Rewarded Video,3.7
+PF,Interstitial,2.448
+PF,Rewarded Video,2.544
+PH,Banner,0.0829
+PH,Interstitial,2.54
+PH,Rewarded Video,4.36
+PK,Banner,0.044
+PK,Interstitial,0.7593
+PK,Rewarded Video,1.1237
+PL,Banner,0.104
+PL,Interstitial,7.52
+PL,Rewarded Video,13.06
+PR,Interstitial,3.792
+PR,Rewarded Video,7.236
+PT,Banner,0.0895
+PT,Interstitial,5.5
+PT,Rewarded Video,9.55
+PY,Banner,0.0399
+PY,Interstitial,1.5185
+PY,Rewarded Video,2.4793
+QA,Banner,0.128
+QA,Interstitial,8.5181
+QA,Rewarded Video,11.1283
+RO,Banner,0.1011
+RO,Interstitial,4.93
+RO,Rewarded Video,10.37
+RS,Interstitial,2.47
+RS,Rewarded Video,6.18
+RU,Banner,0.1663
+RU,Interstitial,8.08
+RU,Rewarded Video,8.09
+SA,Banner,0.2005
+SA,Interstitial,8.88
+SA,Rewarded Video,14.78
+SC,Interstitial,0.972
+SC,Rewarded Video,1.248
+SD,Interstitial,0.444
+SD,Rewarded Video,1.056
+SE,Banner,0.1383
+SE,Interstitial,8.61
+SE,Rewarded Video,13.27
+SG,Banner,0.4352
+SG,Interstitial,10.33
+SG,Rewarded Video,19.88
+SI,Interstitial,2.436
+SI,Rewarded Video,4.584
+SK,Interstitial,6.02
+SK,Rewarded Video,8.63
+SL,Interstitial,1.164
+SL,Rewarded Video,0.276
+SN,Interstitial,0.672
+SN,Rewarded Video,1.212
+SO,Interstitial,0.732
+SO,Rewarded Video,1.944
+SR,Interstitial,0.504
+SR,Rewarded Video,3.492
+SY,Interstitial,0.42
+SY,Rewarded Video,0.456
+SZ,Interstitial,0.252
+TG,Rewarded Video,1.02
+TH,Banner,0.0938
+TH,Interstitial,3.91
+TH,Rewarded Video,6.07
+TJ,Banner,0.0254
+TJ,Interstitial,1.183
+TJ,Rewarded Video,1.7067
+TM,Interstitial,1.308
+TM,Rewarded Video,3.276
+TN,Interstitial,1.032
+TN,Rewarded Video,0.66
+TR,Banner,0.0723
+TR,Interstitial,5.21
+TR,Rewarded Video,9.29
+TT,Interstitial,1.224
+TT,Rewarded Video,1.512
+TW,Banner,1.4
+TW,Interstitial,13.27
+TW,Rewarded Video,21.06
+TZ,Interstitial,1.452
+TZ,Rewarded Video,2.208
+UA,Banner,0.0741
+UA,Interstitial,3.85
+UA,Rewarded Video,6.72
+UG,Interstitial,1.512
+UG,Rewarded Video,5.352
+UK,Banner,0.3434
+UK,Interstitial,17.09
+UK,Rewarded Video,30.76
+US,Banner,0.728
+US,Interstitial,21.65
+US,Rewarded Video,39.73
+UY,Interstitial,1.272
+UY,Rewarded Video,1.596
+UZ,Banner,0.0828
+UZ,Interstitial,1.9372
+UZ,Rewarded Video,2.8517
+VE,Interstitial,0.72
+VE,Rewarded Video,1.152
+VN,Banner,0.0442
+VN,Interstitial,2.83
+VN,Rewarded Video,5.26
+YE,Interstitial,0.456
+YE,Rewarded Video,1.212
+ZA,Banner,0.1315
+ZA,Interstitial,4.59
+ZA,Rewarded Video,7.43
+ZM,Interstitial,1.392
+ZM,Rewarded Video,2.556
+ZW,Interstitial,0.852
+ZW,Rewarded Video,1.476
+End,Splash,0
