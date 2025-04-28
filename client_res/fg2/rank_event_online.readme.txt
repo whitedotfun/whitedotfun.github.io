@@ -6,9 +6,9 @@
 			// 活动类型，目前有duck（小黄鸭）、bottle（漂流瓶）和watermelon（打西瓜）
 			"eventType": "bottle",
 			// 活动开始日期
-			"openBeginTime": "2025-4-1",
+			"openBeginTime": "2025-04-01",
 			// 活动结束日期
-			"openEndTime": "2025-5-1",
+			"openEndTime": "2025-05-01",
 			// 活动开始后持续天数
 			"durationDays": 3
 		}
