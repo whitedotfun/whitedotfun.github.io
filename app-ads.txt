@@ -2614,3 +2614,9 @@ markappmedia.site, C-1054, RESELLER
 rubiconproject.com, 20086, RESELLER
 appnexus.com, 14808, RESELLER
 bidease.com, bidease_seller_19, RESELLER
+freewheel.tv, 741650, RESELLER
+Improvedigital.com, 1699, RESELLER
+App-stock.com, 558223, Reseller, ed8c126ea5971415
+sabio.us, 100092, reseller, 96ed93aaa9795702
+freewheel.tv, 1606620, reseller
+freewheel.tv, 1606633, reseller
