@@ -8,15 +8,21 @@
 			"durationDays": 3
 		}, {
 			"id": 1,
-			"eventType": "bottle",
-			"openBeginTime": "2025-05-01",
-			"openEndTime": "2025-05-16",
+			"eventType": "watermelon",
+			"openBeginTime": "2025-05-02",
+			"openEndTime": "2025-05-07",
 			"durationDays": 3
 		}, {
 			"id": 2,
+			"eventType": "bottle",
+			"openBeginTime": "2025-05-10",
+			"openEndTime": "2025-05-17",
+			"durationDays": 3
+		}, {
+			"id": 3,
 			"eventType": "watermelon",
-			"openBeginTime": "2025-05-16",
-			"openEndTime": "2025-05-31",
+			"openBeginTime": "2025-05-20",
+			"openEndTime": "2025-05-27",
 			"durationDays": 3
 		}
 	]
