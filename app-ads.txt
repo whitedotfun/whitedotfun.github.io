@@ -2637,3 +2637,10 @@ start.io, 150505487, RESELLER
 appnexus.com, 16244, RESELLER
 adiiix.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
 smartadserver.com, 4190, RESELLER, 060d053dcf45cbf3
+admanmedia.com, 2269, DIRECT
+oko.uk,a4eb11dd-9bc5-4d77-9877-71f69dcfc08f,DIRECT,b3511ffcafb23a32
+rubiconproject.com,17974,RESELLER,0bfd66d529a55807
+pubmatic.com,157663,RESELLER,5d62403b186f2ace
+appnexus.com,11111,RESELLER,f5ab79cb980f11d1
+inmobi.com,19c2d64f068541e7a796cf6f89ce29a8,RESELLER,83e75a7ae333ca9d
+sonobi.com,f2597d7a13,RESELLER,d1a215d9eb5aee9e
