@@ -3,8 +3,8 @@
 		{
 			// 递增的活动id，仅会检查超过已经进行过的id的活动
 			"id": 0,
-			// 活动类型，目前有duck（小黄鸭）、bottle（漂流瓶）、watermelon（打西瓜）、ocean（海洋日）
-			"eventType": "bottle",
+            // 商店类型，目前有ocean（海洋日）
+            "shopType": "ocean",
 			// 活动开始日期
 			"openBeginTime": "2025-04-01",
 			// 活动结束日期

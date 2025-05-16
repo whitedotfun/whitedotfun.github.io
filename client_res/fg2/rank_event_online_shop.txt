@@ -1,0 +1,11 @@
+{
+	"data": [
+		{
+			"id": 0,
+			"shopType": "ocean",
+			"openBeginTime": "2025-06-08",
+			"openEndTime": "2025-06-15",
+			"durationDays": 7
+		}
+	]
+}

@@ -24,6 +24,12 @@
 			"openBeginTime": "2025-05-20",
 			"openEndTime": "2025-05-27",
 			"durationDays": 3
+		}, {
+			"id": 4,
+			"eventType": "ocean",
+			"openBeginTime": "2025-06-08,
+			"openEndTime": "2025-06-15",
+			"durationDays": 7
 		}
 	]
 }
