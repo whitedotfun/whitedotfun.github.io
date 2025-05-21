@@ -1,0 +1,4 @@
+..\client_res\fg2\abtest.txt
+..\client_res\fg2\rank_event_online.txt
+..\client_res\fg2\rank_event_online_shop.txt
+..\client_res\fgi\abtest.txt
