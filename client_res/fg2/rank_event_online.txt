@@ -30,6 +30,12 @@
 			"openBeginTime": "2025-06-08",
 			"openEndTime": "2025-06-15",
 			"durationDays": 7
+		}, {
+			"id": 5,
+			"eventType": "bottle",
+			"openBeginTime": "2025-06-17",
+			"openEndTime": "2025-06-24",
+			"durationDays": 4
 		}
 	]
 }
