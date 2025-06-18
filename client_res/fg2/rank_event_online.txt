@@ -36,6 +36,12 @@
 			"openBeginTime": "2025-06-17",
 			"openEndTime": "2025-06-24",
 			"durationDays": 4
+		} {
+			"id": 6,
+			"eventType": "watermelon",
+			"openBeginTime": "2025-06-25",
+			"openEndTime": "2025-06-30",
+			"durationDays": 4
 		}
 	]
 }
