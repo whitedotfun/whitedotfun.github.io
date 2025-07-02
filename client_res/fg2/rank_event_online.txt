@@ -36,11 +36,41 @@
 			"openBeginTime": "2025-06-17",
 			"openEndTime": "2025-06-24",
 			"durationDays": 4
-		} {
+		}, {
 			"id": 6,
 			"eventType": "watermelon",
 			"openBeginTime": "2025-06-25",
 			"openEndTime": "2025-06-30",
+			"durationDays": 4
+		}, {
+			"id": 7,
+			"eventType": "ocean",
+			"openBeginTime": "2025-07-03",
+			"openEndTime": "2025-07-07",
+			"durationDays": 4
+		}, {
+			"id": 8,
+			"eventType": "bottle",
+			"openBeginTime": "2025-07-10",
+			"openEndTime": "2025-07-14",
+			"durationDays": 4
+		}, {
+			"id": 9,
+			"eventType": "watermelon",
+			"openBeginTime": "2025-07-17",
+			"openEndTime": "2025-07-21",
+			"durationDays": 4
+		}, {
+			"id": 10,
+			"eventType": "duck",
+			"openBeginTime": "2025-07-24",
+			"openEndTime": "2025-07-28",
+			"durationDays": 4
+		}, {
+			"id": 11,
+			"eventType": "ocean",
+			"openBeginTime": "2025-07-31",
+			"openEndTime": "2025-08-03",
 			"durationDays": 4
 		}
 	]
