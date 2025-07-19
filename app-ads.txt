@@ -1,3 +1,4 @@
+MANAGERDOMAIN=tradplusad.com
 tradplusad.com,8580a93ec85d6e35,DIRECT
 pubmatic.com, 160692, RESELLER, 5d62403b186f2ace
 eskimi.com, 2020000213, RESELLER
@@ -2709,3 +2710,44 @@ App-stock.com, 558223, Reseller, ed8c126ea5971415
 sabio.us, 100092, reseller, 96ed93aaa9795702
 freewheel.tv, 1606620, reseller
 freewheel.tv, 1606633, reseller
+152media.info,152M1121,RESELLER
+pubmatic.com, 163963, RESELLER, 5d62403b186f2ace
+apester.com, 49071, RESELLER
+xandr.com, 13955, RESELLER
+triplelift.com, 11457, RESELLER, 6c33edb13117fd86
+openx.com, 539253360, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 27136, RESELLER, 0bfd66d529a5580
+themediagrid.com, 9FRCA5, DIRECT, 35d5010d7789b49d
+bidmachine.io, 100, reseller
+mindtos.com, mt45eb5f865ce39e1b, reseller
+hindsightsolutions.net, hsinmobi100000, reseller
+spinx.biz, 1373698866, reseller
+myfeature.tv, n1fnlxqufcvdx3gt6mjn, reseller
+apester.com, 2212, reseller
+admanmedia.com, 2045, RESELLER
+adelement.com, 36004, RESELLER
+admixer.net, e58950b9-933f-4f5b-b49c-7ca927540db1, RESELLER
+lunamedia.io, 193bca549318aed0434226d4d73e13f3, RESELLER, 524ecb396915caaf
+pubmatic.com, 160989, RESELLER, 5d62403b186f2ace
+taurusx.com, 80614, RESELLER
+33across.com, 001Pg00000LoMyvIAF, RESELLER, bbea06d9c4d2853c
+admanmedia.com, 2072, RESELLER
+visiblemeasures.com, 1004, RESELLER
+orangeclickmedia.com, c-1181, RESELLER
+ushareit.com, LCb555b3bc8667a09a, RESELLER
+krushmedia.com, ajxf6R585a9m6Catvk, RESELLER
+loopme.com, 15629, RESELLER, 6c8d5f95897a5a3b
+pubnative.net, 1007485, RESELLER, d641df8625486a7b
+opera.com, pub6843437470464, RESELLER, 55a0c5fd61378de3
+lacunads.com, LCb555b3bc8667a09a, RESELLER
+trustedstack, TSTKQ5827, RESELLER
+rubiconproject.com, 26144, RESELLER, 0bfd66d529a55807
+openx.com, 559911747, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 164187, RESELLER, 5d62403b186f2ace
+yieldmo.com, 3377199372461613093, RESELLER
+brightmountainmedia.com,26861009, RESELLER
+sharethrough.com, 1leEveR6, RESELLER, d53b998a7bd4ecd2
+lijit.com, 551431, RESELLER, fafdf38b16bf6b2b
+display.io, 223179, RESELLER
+mobupps.com, c74d97b01eae257e44aa9d5bade97baf5001, RESELLER
+adingenious.com, 75075, RESELLER
