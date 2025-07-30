@@ -3062,3 +3062,23 @@ axonix.com, 59183, RESELLER
 adyoulike.com, 02bbfc5dd0707834f452ab1bbe855a83, RESELLER
 themediagrid.com, 8ZRKBE, RESELLER
 media.net, 8CU4YBH24, RESELLER
+taurusx.com, 10000048-1048, DIRECT
+webeyemob.com, 10000048-1048, DIRECT
+caerulus.io, 3321-00048, DIRECT
+tradplusad.com, 56839-9686, DIRECT
+rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
+openx.com, 540679900, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 163571, RESELLER, 5d62403b186f2ace
+conversantmedia.com, 100358, RESELLER, 03113cd04947736d
+rhebus.works, 5000863388, RESELLER
+adingo.jp, 31054, RESELLER
+singularads, 548745, RESELLER
+onetag.com, 8668c16092f01e8, RESELLER
+showheroes.com, 6031, RESELLER
+lijit.com, 530498, RESELLER, fafdf38b16bf6b2b
+contextweb.com, 563601, RESELLER, 89ff185a4c4e857c
+betweendigital.com, 45611, RESELLER
+appnexus.com, 17044, RESELLER
+xandr.com, 17044, RESELLER
+playdigo.com, 1987, RESELLER, 92011346d63d3c30
+video.unrulymedia.com, 475093422, RESELLER
