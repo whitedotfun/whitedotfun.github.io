@@ -108,6 +108,54 @@
 			"openBeginTime": "2025-10-01",
 			"openEndTime": "2025-10-03",
 			"durationDays": 4
+		}, {
+			"id": 18,
+			"eventType": "duck",
+			"openBeginTime": "2025-10-10",
+			"openEndTime": "2025-10-14",
+			"durationDays": 4
+		}, {
+			"id": 19,
+			"eventType": "ocean",
+			"openBeginTime": "2025-10-16",
+			"openEndTime": "2025-10-20",
+			"durationDays": 4
+		}, {
+			"id": 20,
+			"eventType": "bottle",
+			"openBeginTime": "2025-10-22",
+			"openEndTime": "2025-10-26",
+			"durationDays": 4
+		}, {
+			"id": 21,
+			"eventType": "watermelon",
+			"openBeginTime": "2025-10-27",
+			"openEndTime": "2025-10-31",
+			"durationDays": 4
+		}, {
+			"id": 22,
+			"eventType": "duck",
+			"openBeginTime": "2025-11-01",
+			"openEndTime": "2025-11-05",
+			"durationDays": 4
+		}, {
+			"id": 23,
+			"eventType": "ocean",
+			"openBeginTime": "2025-11-06",
+			"openEndTime": "2025-11-10",
+			"durationDays": 4
+		}, {
+			"id": 24,
+			"eventType": "bottle",
+			"openBeginTime": "2025-11-11",
+			"openEndTime": "2025-11-15",
+			"durationDays": 4
+		}, {
+			"id": 25,
+			"eventType": "watermelon",
+			"openBeginTime": "2025-11-16",
+			"openEndTime": "2025-11-20",
+			"durationDays": 4
 		}
 	]
 }
