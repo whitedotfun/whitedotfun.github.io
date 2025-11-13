@@ -6,6 +6,12 @@
 			"openBeginTime": "2025-06-08",
 			"openEndTime": "2025-06-15",
 			"durationDays": 7
+		},{
+			"id": 1,
+			"shopType": "ocean",
+			"openBeginTime": "2025-11-22",
+			"openEndTime": "2025-11-28",
+			"durationDays": 7
 		}
 	]
 }
