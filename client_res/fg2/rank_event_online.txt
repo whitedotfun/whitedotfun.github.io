@@ -126,7 +126,7 @@
 			"openBeginTime": "2025-10-22",
 			"openEndTime": "2025-10-26",
 			"durationDays": 4
-		},  {
+		}, {
 			"id": 21,
 			"eventType": "ocean",
 			"openBeginTime": "2025-11-04",
