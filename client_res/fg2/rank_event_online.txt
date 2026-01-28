@@ -228,7 +228,7 @@
 			"openBeginTime": "2026-01-25",
 			"openEndTime": "2026-01-28",
 			"durationDays": 4
-		} {
+		}, {
 			"id": 38,
 			"eventType": "bottle",
 			"openBeginTime": "2026-01-29",
