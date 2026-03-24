@@ -300,7 +300,7 @@
 			"openBeginTime": "2026-03-22",
 			"openEndTime": "2026-03-26",
 			"durationDays": 4
-		} {
+		}, {
 			"id": 50,
 			"eventType": "bottle",
 			"openBeginTime": "2026-03-27",
@@ -308,18 +308,6 @@
 			"durationDays": 4
 		}, {
 			"id": 51,
-			"eventType": "watermelon",
-			"openBeginTime": "2026-04-01",
-			"openEndTime": "2026-04-03",
-			"durationDays": 4
-		}, {
-			"id": 52,
-			"eventType": "duck",
-			"openBeginTime": "2026-04-04",
-			"openEndTime": "2026-04-08",
-			"durationDays": 4
-		}, {
-			"id": 53,
 			"eventType": "ocean",
 			"openBeginTime": "2026-04-09",
 			"openEndTime": "2026-04-12",
