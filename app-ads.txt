@@ -5612,3 +5612,13 @@ targetbetter.com, 82228, RESELLER
 media.net, 8CUH46N56, RESELLER
 programmaticx.ai, 84448, RESELLER, b42d42eb28400efa
 triplelift.com, 14716, RESELLER, 6c33edb13117fd86
+sharethrough.com, 5451, RESELLER, d53b998a7bd4ecd2
+conversantmedia.com, 101057, RESELLER, 03113cd04947736d
+dauup.com, 34200, RESELLER, 4daba13e2b0dfd92
+google.com, pub-8295307411939304, DIRECT, f08c47fec0942fa0
+advlion.com, 5225, RESELLER, 58b813a6c4d05071
+lijit.com, 572526, RESELLER, fafdf38b16bf6b2b
+eskimi.com, 2020001190, RESELLER
+adagio.io, 1541, RESELLER
+ergadx.com, 4776, RESELLER
+playdigo.com, 2091, RESELLER, 92011346d63d3c30
