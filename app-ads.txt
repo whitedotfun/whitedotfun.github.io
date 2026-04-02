@@ -5622,3 +5622,10 @@ eskimi.com, 2020001190, RESELLER
 adagio.io, 1541, RESELLER
 ergadx.com, 4776, RESELLER
 playdigo.com, 2091, RESELLER, 92011346d63d3c30
+bidmachine.io,258,RESELLER
+bold-win.com,1131,RESELLER,71746737d0bab951
+consumable.com,2001446,RESELLER,aefcd3d2f45b5070
+freewheel.tv,534608-r-523319,RESELLER
+rubiconproject.com,27931,RESELLER,0bfd66d529a55807
+smaato.com,1100056087,RESELLER,07bcf65f187117b4
+toponad.com,16513d1e193a2a,RESELLER,1d49fe424a1a456d
