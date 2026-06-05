@@ -5644,3 +5644,96 @@ azberry.com, 321017, RESELLER
 tubia.com, 40123, RESELLER
 playdigo.com, 2091, DIRECT, 92011346d63d3c30
 lijit.com, 489963-eb, RESELLER, fafdf38b16bf6b2b
+anzu.io, 6995dd6e4b45334cc758cd8f, reseller
+smilewanted.com, 6022, reseller
+zetaglobal.net, 630, reseller
+selectmedia.asia, 645b5a31e427dc0a87094fc4, reseller, e365c871a27c655d
+conversantmedia.com, 100357, reseller, 03113cd04947736d
+playdigo.com, 2010, reseller
+themediagrid.com, 29in8p, reseller, 9fac4a4a87c2a44f
+sharethrough.com, 3817, reseller, d53b998a7bd4ecd2
+dauup.com, 34202, RESELLER, 4daba13e2b0dfd92
+pubnative.net, 1008060, RESELLER, d641df8625486a7b
+cas.ai, b2659234, RESELLER
+algorix.co, 604553, RESELLER, 5b394c12fea27a1d
+start.io, 115550145, RESELLER
+madex.world, 544b4c02-bccb-47eb-a8c2-0a6be081778b, RESELLER
+supply.colossusssp.com, 821, RESELLER, 6c5b49d96ec1b458
+video.unrulymedia.com, 1382908057, RESELLER
+video.unrulymedia.com, 463431857, RESELLER
+themediagrid.com, 9FRCA5, RESELLER, 35d5010d7789b49d
+qntv.io, 72910251, RESELLER
+inmobi.com, 7dc16f0c6dec469ba1886d896f71cded, RESELLER, 83e75a7ae333ca9d
+adsolut.in, 18057, RESELLER
+playstream.media, 3185, RESELLER
+themediagrid.com, Q6VXLE, RESELLER, 35d5010d7789b49d
+admanmedia.com, 2286, RESELLER
+consumable.com, 2001598, RESELLER, aefcd3d2f45b5070
+safex.tv, 5080, RESELLER
+taboola.com, 1618213, RESELLER, c228e6794e811952
+pinklion.io, 190976894, RESELLER
+lijit.com, 383910, RESELLER, fafdf38b16bf6b2b
+video.unrulymedia.com, 829160295, RESELLER
+copper6.com, 766216, RESELLER
+carliba.io, 184103, RESELLER
+themediagrid.com, VM75KS, RESELLER, 35d5010d7789b49d
+lijit.com, 583722, RESELLER, fafdf38b16bf6b2b
+sharethrough.com, 4568, RESELLER, d53b998a7bd4ecd2
+video.unrulymedia.com, 266978658, RESELLER
+insticator.com, a4eb11dd-9bc5-4d77-9877-71f69dcfc08f, RESELLER, b3511ffcafb23a32
+pubmatic.com, 95054, RESELLER, 5d62403b186f2ace
+triplelift.com, 6998, RESELLER, 6c33edb13117fd86
+themediagrid.com, DQ6AMB, RESELLER, 35d5010d7789b49d
+safex.tv, 5085, RESELLER
+filmzie.com, 5085, RESELLER
+freewheel.tv, sg1282903, RESELLER
+beachfront.com, 13460, RESELLER, e2541279e8e2ca4d
+thebrave.io, 1234736, RESELLER, c25b2154543746ac
+mlion.io, 176387900, RESELLER
+video.unrulymedia.com, 505354689, RESELLER
+carambo.la, 914731582, RESELLER, 08a6b436f8183ac9
+rubiconproject.com, 17174, RESELLER, 0bfd66d529a55807
+media.net, 8CUGTT682, RESELLER
+algorix.co, 604547, RESELLER, 5b394c12fea27a1d
+video.unrulymedia.com, 389912353, RESELLER
+programmaticx.ai, 10568600, RESELLER, b42d42eb28400efa
+targetbetter.com, 610568600, RESELLER
+fasttvltd.com, e689c0c2, RESELLER
+adtelligent.com, 788016, RESELLER, 8ce87912eb022a51
+tagoras.io,82f086910cc277680cae8f84f1570248, RESELLER
+admatic.de, ade-pub-618749601, RESELLER
+app-stock.com, 155886, RESELLER
+pubmatic.com, 167981, RESELLER, 5d62403b186f2ace
+improvedigital.com, 2862, RESELLER
+bidmachine.io,1409,RESELLER
+adelement.com, 39001, Reseller
+mobimight.com, 36001, Reseller
+elixirvideo.co, 67458, Reseller
+smrtconnect.com, 820496, Reseller
+thebigred.co, 910601, Reseller
+pubgrowth.com, 50182, Reseller
+rubiconproject.com, 27909, Reseller, 0bfd66d529a55807
+ubrikvideo.com, 420374, Reseller
+captiv.ai, 3401, Reseller
+admanmedia.com, 2342, Reseller
+adyoulike.com, eeace9b3571459918af3d2ccbba82cd8, Reseller
+pubnative.net, 1007228, RESELLER, d641df8625486a7b
+bidmachine.io, 1187, RESELLER
+conversantmedia.com, 101216, RESELLER, 03113cd04947736d
+pubnative.net, 1017942, RESELLER, d641df8625486a7b
+improvedigital.com, 1947, RESELLER
+sharethrough.com, 5450, RESELLER, d53b998a7bd4ecd2
+adingo.jp, 34490, RESELLER
+9dotsmedia.com, 5512, RESELLER, 45ff185b4c4e857d
+trustedstack.com, TS3MF8KJ3, RESELLER
+voisetech.com, 1402, RESELLER, 9009ef0379162448
+improvedigital.com, 2862, reseller
+toponad.com,168e8e975a9639,RESELLER,1d49fe424a1a456d
+e-planning.net, 6a7f877127485fdb, RESELLER, c1ba615865ed87b2
+triplelift.com, 95054, RESELLER, 6c33edb13117fd86
+adform.com, 3400, RESELLER, 9f5210a2f0999e32
+ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
+onlinemediasolutions.com, 23120, RESELLER, b3868b187e4b6402
+pubmatic.com, 163117, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4972, RESELLER, 060d053dcf45cbf3
+zetaglobal.net, 630, RESELLER
