@@ -6706,3 +6706,50 @@ admixer.net, 250, reseller
 smaato.com, 1100059831, reseller, 07bcf65f187117b4
 bold-win.com, 1142, reseller, 71746737d0bab951
 anzu.io, 6a5e05f4e387a980826e2b22, reseller, 1c1b7acf4992136c
+iion.io, 10353, RESELLER
+triplelift.com, 14551, RESELLER, 6c33edb13117fd86
+smartadserver.com, 4618, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4618, RESELLER, d53b998a7bd4ecd2
+genieesspv.jp, s5, RESELLER
+smaato.com, 1100060469, RESELLER, 07bcf65f187117b4
+smilewanted.com, 6265, RESELLER
+openx.com, 609225366, RESELLER, 6a698e2ec38604c6
+omni-dex.io, 100108, RESELLER
+insticator.com, 4022291c-df72-416d-98ba-ab42fb0696d3, RESELLER, b3511ffcafb23a32
+yieldmo.com, 4159765376676077684, RESELLER
+adingo.jp, 31595, RESELLER
+pubnative.net, 1018308, RESELLER, d641df8625486a7b
+smaato.com, 1100060477, RESELLER, 07bcf65f187117b4
+smaato.com, 1100060475, RESELLER, 07bcf65f187117b4
+risecodes.com, 6a952bfdeb73a000010a2f63, RESELLER
+taurusx.com, 80657, RESELLER
+bid-matrix.com, d576e3be59319075, RESELLER
+adorphic.com, 4067, RESELLER
+vistars.ai, d7njl5dbhjes73cnd8tg, RESELLER
+gravite.net, c6f2f6708dc1f6e2ae1165c0a861b3b0, RESELLER
+openx.com, 564879531, RESELLER, 6a698e2ec38604c6
+conversantmedia.com, 101349, RESELLER, 03113cd04947736d
+krushmedia.com, AJxF6R719a9M6CaTvK, RESELLER
+insticator.com, e2d3e33c-9911-477a-8ae2-f059870c67c0, RESELLER, b3511ffcafb23a32
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+start.io, 131192070, RESELLER
+smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
+openx.com, 564972066, reseller, 6a698e2ec38604c6
+triplelift.com, 12465, reseller, 6c33edb13117fd86
+media.net, 8caok5v3y, reseller, 818f58666cabc936
+indexexchange.com, 220189, reseller, 50b1c356f2c5c8fc
+freewheel.tv, 535664-r-523319, reseller
+media.net, 8ca7bo5y1, reseller, 818f58666cabc936
+vidazoo.com, 6ab4e4454da99de3c4d515c9, reseller, b6ada874b4d7d0b2
+ogury.com, 260f8f9c-5adc-46ca-9418-ed6ad8948af7, reseller
+nativo.com, 6072, reseller, 59521ca7cc5e9fee
+indexexchange.com, 219174, reseller, 50b1c356f2c5c8fc
+media.net, 8cu76268d, reseller, 818f58666cabc936
+growone.sg, 108b7d5328f7442cd7e19c4463d7ff8d, reseller
+opera.com, pub14613577249152, reseller, 55a0c5fd61378de3
+media.net, 8cui89k0d, reseller, 818f58666cabc936
+themediagrid.com, nc7lxt, reseller, 9fac4a4a87c2a44f
+nativo.com, 6114, reseller, 59521ca7cc5e9fee
